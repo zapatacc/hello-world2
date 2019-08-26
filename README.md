@@ -1,2 +1,5 @@
 # hello-world2
-El programa inciial para parender a usar git y github
+El programa inicial para aprender a usar git y github
+
+
+Modificación que se hizo en la rama readme-edits
