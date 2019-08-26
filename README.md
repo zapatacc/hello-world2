@@ -1,5 +1,9 @@
-# hello-world2
+﻿# hello-world2
+
+
 El programa inicial para aprender a usar git y github
 
 
-Modificación que se hizo en la rama readme-edits
+
+Este es un cambio que se hace de manera local en el computador donde está clonado el repositorio.
+
